@@ -16,7 +16,7 @@
 
 ## Schedule
 
-### Week 1: First Principles
+### Week 1: First Principles ([link][wk1])
 
 - Go Types
 - Language keywords and operators
@@ -54,8 +54,4 @@
   - Linters
   - (a little) Copying > External Dependencies
 
-## Useful Resources
-
-## Questions
-
-Ask questions in `#go-guild` or reach out to the instructor.
+[wk1]: ./wk1/
