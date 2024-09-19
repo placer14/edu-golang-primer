@@ -3,10 +3,10 @@
 ## Before class
 
 0. Install Go on your local host.
-  a. go.dev recommends installing from tarball, but `brew install go` and `apt install -y golang-go` work fine.
+    1. go.dev recommends installing from tarball, but `brew install go` and `apt install -y golang-go` work fine.
 1. Write/run a quick "Hello World" on your local host: [Getting Started][getting-started]
-  a. If you are unable to complete this, please get help from the Internet or the instructor.
-  b. In a pinch, the [Go Playground][golang-playground] will suffice for this task.
+    1. If you are unable to complete this, please get help from the Internet or the instructor.
+    2. In a pinch, the [Go Playground][golang-playground] will suffice for this task.
 2. Walk through the [Go Tour][golang-tour] and play around with the examples.
 
 ## Topics Covered
