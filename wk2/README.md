@@ -1,31 +1,21 @@
-# Week 2: Concurrency and Synchronization
+# Week 2: First Principles (continued)
 
 ## Before class
 
-1. Organize questions from last session's homework/discussion.
+1. Make sure you've caught up on required reading from last week's homework.
+2. Extra credit: Thoughts prepared about global variable declarations.
+Why or why not?
 
 ## Topics Covered
 
-- Review of last session + Questions?
-- Go toolchain and environment
-  - `go`
-  - `go env`: `GOPATH`
-  - `go fmt`
-  - `go build`
-  - `go run`
-  - `go test`
-  - `go get`
-  - `go mod`
-  - `go install`
-  - `go help`
-- Standard Library
-- Package management
-  - Unit testing, fuzzing and benchmarking
-  - Private and public identifiers.
-  - Versioned releases.
-  - Go modules: Setup, best practices, documentation
-  - Go docs
-  - Dependency management: `go get`, `go mod`
-  - Using 3rd-party packages
+- Go Types
+- Language keywords and operators
+- Control Flow
+
+## Homework
+
+TBA
 
 ## Resources
+
+N/A
