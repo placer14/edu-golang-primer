@@ -22,7 +22,10 @@
 1. Review content in the [Go Tour][golang-tour] some more and play around with
 the examples.
 2. Capture anything which is unclear to be asked at the next session.
-3. Read the following pages within [gobyexample.com][gobyexample]
+3. I assume everyone has had an opportunity to install golang locally and
+complete the [Getting Started][getting-started] tutorial.
+4. Walk through the [Go Tour][golang-tour] and play around with the examples.
+5. Read the following pages within [gobyexample.com][gobyexample]
     1. <https://gobyexample.com/values>
     2. <https://gobyexample.com/variables>
     3. <https://gobyexample.com/constants>
