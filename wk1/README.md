@@ -1,4 +1,4 @@
-# Week 1: First Principles
+# Week 1: Golang Types
 
 ## Before class
 
@@ -13,9 +13,19 @@
 
 ## Topics Covered
 
-- Go Types
-- Language keywords and operators
-- Control Flow
+- Declaring variables
+- Zero values for each type
+- Basic Types
+  - int (int8, int16, int32, int64)
+  - uint (uint8, uint16, uint32, uint64, uintptr)
+  - int, uint sizes (matches bitness of host arch)
+  - float (float32, float64)
+  - complex (complex32, complex64)
+  - byte (uint8)
+  - strings
+    - literals ("hi", `hi`)
+  - rune (int32)
+    - literals ('h')
 
 ## Homework
 

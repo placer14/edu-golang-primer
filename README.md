@@ -16,17 +16,25 @@
 
 ## Schedule
 
-### Week 1: First Principles ([link][wk1])
+### Week 1: Go Types ([link][wk1])
 
-- Go Types
+- Declaring variables
+- Zero values for each type
+- Basic Types
 
-### Week 2: First Principles ([link][wk2])
+### Week 2: Go Types (continued) ([link][wk2])
 
-- Go Types
-- Language keywords and operators
-- Control Flow
+- Basic Types (continued)
+- Complex Types
 
-### Week 3: Ten-thousand-foot View
+### Week 3: Language Keywords ([link][wk3])
+
+- Declaraction keywords
+- Type notation keywords
+- Flow control keywords
+- Functional flow control keywords
+
+### In the future
 
 - Go toolchain and environment
 - Standard Library
@@ -35,19 +43,13 @@
   - Go docs
   - Release versioning
 
-### Week 4: Concurrency
-
 - Go routines
 - Coordination and the `sync` STL package
 - Idiomatic patterns
 
-### Week 5: Under the Hood
-
 - Reflection
 - Memory layouts
 - Garbage Collection
-
-### Week 6: Best Practices
 
 - Idioms
   - Errors are Values
@@ -68,6 +70,7 @@ learning and using Golang.
 natural-language search engine.
 - [Getting started with Golang][gettingstarted] - A brief intro to Golang
 with Hello World example.
+- [Go 101][go101] - Very thorough and up-to-date resource on the Golang language
 
 ## Questions
 
@@ -75,6 +78,8 @@ Ask questions in `#go-guild` or reach out to the instructor.
 
 [wk1]: ./wk1/
 [wk2]: ./wk2/
+[wk3]: ./wk3/
 [perplexity]: https://perplexity.ai
 [gotour]: https://go.dev/tour
 [gettingstarted]: https://go.dev/doc/tutorial/getting-started
+[go101]: https://go101.org/
