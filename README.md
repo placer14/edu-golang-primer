@@ -29,7 +29,7 @@
 
 ### Week 3: Language Keywords ([link][wk3])
 
-- Declaraction keywords
+- Declaration keywords
 - Type notation keywords
 - Flow control keywords
 - Functional flow control keywords
@@ -62,6 +62,8 @@
 
 ## Useful Resources
 
+Here are the slides which have been prepared for the course. [Google Slides][slides]
+
 These are the resources which have been mentioned which will assist
 learning and using Golang.
 
@@ -74,7 +76,7 @@ with Hello World example.
 
 ## Questions
 
-Ask questions in `#go-guild` or reach out to the instructor.
+Ask questions in `#ambient-backend-guild` or reach out to the instructor.
 
 [wk1]: ./wk1/
 [wk2]: ./wk2/
@@ -83,3 +85,4 @@ Ask questions in `#go-guild` or reach out to the instructor.
 [gotour]: https://go.dev/tour
 [gettingstarted]: https://go.dev/doc/tutorial/getting-started
 [go101]: https://go101.org/
+[slides]: https://docs.google.com/presentation/d/1fFYM8AH0_DXhD2XU1YWnVDV2Yreb7RF58CyBJ2VWVvw/edit?usp=sharing

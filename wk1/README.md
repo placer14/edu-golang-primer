@@ -20,7 +20,6 @@
   - uint (uint8, uint16, uint32, uint64, uintptr)
   - int, uint sizes (matches bitness of host arch)
   - float (float32, float64)
-  - complex (complex32, complex64)
   - byte (uint8)
   - strings
     - literals ("hi", `hi`)

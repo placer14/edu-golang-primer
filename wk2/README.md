@@ -2,8 +2,7 @@
 
 ## Before class
 
-1. Make sure you've caught up on required reading from last week's homework.
-2. Extra credit: Thoughts prepared about global variable declarations.
+1. Extra credit: Thoughts prepared about global variable declarations.
 Why or why not?
 
 ## Topics Covered
@@ -13,7 +12,6 @@ Why or why not?
 - complex (complex64, complex128)
 - Pointers
 - Pass-by-value (pointers vs values)
-
 - Complex types
   - Slices
   - Arrays
