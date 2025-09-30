@@ -66,27 +66,51 @@ Walk through all of the complex types and their zero values:
 
 - Just 25 keywords
   - Unique language types notation: `chan`, `interface`, `map`, `struct`
-  - Logic flow control: `break`, `case`, `continue`, `default`, `else`, `fallthrough`, `for`, `goto`, `if`, `range`, `return`, `select`, `switch`
   - Declaration: `const`, `func`, `import`, `package`, `type`, `var`
+  - Logic flow control: `break`, `case`, `continue`, `default`, `else`, `fallthrough`, `for`, `goto`, `if`, `range`, `return`, `select`, `switch`
+
+--- stopped here for wk3
+
+- Keywords continued
   - Lifecycle flow control: `go`, `defer`
-- Indentifier
-  - An identifier is a token which must be composed of Unicode letters, Unicode digits and `_` (underscore), and start with either an Unicode letter or `_`.
-  - Private vs Public (exported) identifier
-- Control flow
-  - Traditional: `if/else`, `for`, `switch`, `select`, etc
-  - `panic` and `recover`
 
---- stop here for wk3
-
-- Other built-ins which are not keywords: `panic`, `recover`, `len`, `cap`, `append`, `make`, `new`
 - Operators (`+/-*`, `**`, `++`, `--`, `>`, `<`, `<=`, `>=`, `==`, `>>`, `<<`, `()`)
   - `==`
     - bool: regular equality
     - numeric (int, float, complex): regular equality
+- Built-in Functions
+- Working with Golang Day-to-day
+- Go toolchain and environment
+  - `go`
+  - `go env`: `GOPATH`
+  - `go fmt`
+  - `go build`
+  - `go run`
+  - `go test`
+  - `go get`
+  - `go mod`
+  - `go install`
+  - `go help`
+- Standard Library
+- Package management
+  - Unit testing, fuzzing and benchmarking
+  - Private and public identifiers.
+  - Versioned releases.
+  - Go modules: Setup, best practices, documentation
+  - Go docs
+  - Dependency management: `go get`, `go mod`
+  - Using 3rd-party packages
+
+- Indentifiers
+  - An identifier is a token which must be composed of Unicode letters, Unicode digits and `_` (underscore), and start with either an Unicode letter or `_`.
+  - Private vs Public (exported) identifier
+  - Functions (decl, calling, etc)
+- Other built-ins which are not keywords: `panic`, `recover`, `len`, `cap`, `append`, `make`, `new`
+  - which values ar args for `make` (<https://go101.org/article/summaries.html#have-length-types>)
 - Variable manipulation
+  - Constants and Variables (<https://go101.org/article/constants-and-variables.html>)
   - new
-  - make
-  - for range
+  - make, cap, close, delete, len
   - value mutation
   - Casting types
     - Overflow, underflow
